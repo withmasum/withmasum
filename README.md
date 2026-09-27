@@ -1,3 +1,5 @@
+
+
 <!--
   Profile README for github.com/withmasum
   The visual style uses GitHub-compatible SVG, badges and tables. GitHub does
@@ -41,6 +43,9 @@ I’m a full-stack developer who enjoys turning clear ideas into fast, polished,
 </table>
 
 Let’s build something exceptional
+<p align="center">
+  <img src="./profile-hero.svg" width="100%" alt="Masum Ahmed — Digital work, made deliberate" />
+</p>
 <div align="center">
   <a href="mailto:mail@masum.uk?subject=Project%20enquiry"><img src="https://img.shields.io/badge/HIRE_ME-mail%40masum.uk-0C76A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Masum by email" /></a>
 </div>
